@@ -1,6 +1,6 @@
 # ColorPicker
 
- <h7> Made With React</h7>
+ <h3> Made With React</h3>
 
 ### [Check it out here] 
 
@@ -12,6 +12,6 @@
   
 </p>
 
-- Clicking on the color block will copy the hex code to your clipboard.
+  <h6>- Clicking on the color block will copy the hex code to your clipboard.<h6>
 
 [check it out here]: https://sreeramthatavarthi.github.io/colorPicker/
