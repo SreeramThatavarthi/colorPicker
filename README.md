@@ -1,6 +1,6 @@
 # ColorPicker
 
-# Made With React
+ <h7> Made With React</h7>
 
 ### [Check it out here] 
 
