@@ -12,6 +12,6 @@
   
 </p>
 
-  <h6>- Clicking on the color block will copy the hex code to your clipboard.<h6>
+  <h4>- Clicking on the color block will copy the hex code to your clipboard.<h4>
 
 [check it out here]: https://sreeramthatavarthi.github.io/colorPicker/
