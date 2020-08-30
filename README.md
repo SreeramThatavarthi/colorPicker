@@ -9,3 +9,7 @@
 <img src="overview.png" style="border-radius:8px">
   
 </p>
+
+- Clicking on the color block will copy the hex code to your clipboard.
+
+[check it out here]: https://sreeramthatavarthi.github.io/colorPicker/
