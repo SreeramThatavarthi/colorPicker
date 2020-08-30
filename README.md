@@ -7,7 +7,7 @@
 ## Overview 👀
 
 <p align="center">
-<img src="meta/pic.png" style="border-radius:8px" width="350">
+
   
 </p>
 
