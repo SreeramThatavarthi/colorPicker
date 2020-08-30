@@ -1,5 +1,5 @@
-#ColorPicker
+# ColorPicker
 
-##Made With React
+## Made With React
 
 ### [Check it out here] 
